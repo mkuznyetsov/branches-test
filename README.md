@@ -1,3 +1,3 @@
 branches-test
 =============
-Hello, this is second commit in secondary branch
+Well, this is another commit in secondary branch
