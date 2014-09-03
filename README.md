@@ -1,3 +1,3 @@
 branches-test
 =============
-Hello, this is first commit
+Hello, this is second commit in master branch
